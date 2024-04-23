@@ -70,7 +70,7 @@ public class Main {
             int length2 = fourthArg.length();
             numbers_width = Math.max(length1, length2);
         } else {
-            System.err.println("Wrong number of arguments provided");
+            System.err.println("Wrong number of arguments provided. [num_of_elevators, elevator_limit, min_floor, max_floor]");
             System.exit(10);
         }
     }

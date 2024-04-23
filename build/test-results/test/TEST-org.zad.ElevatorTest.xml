@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.zad.ElevatorTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-04-23T12:22:12" hostname="DESKTOP-QFBP85B" time="0.013">
+<testsuite name="org.zad.ElevatorTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-04-23T13:05:12" hostname="DESKTOP-QFBP85B" time="0.021">
   <properties/>
   <testcase name="changeDirection()" classname="org.zad.ElevatorTest" time="0.002"/>
-  <testcase name="requestLimitReached()" classname="org.zad.ElevatorTest" time="0.003"/>
+  <testcase name="requestLimitReached()" classname="org.zad.ElevatorTest" time="0.002"/>
   <testcase name="getLocation()" classname="org.zad.ElevatorTest" time="0.001"/>
   <testcase name="addOuterRequest()" classname="org.zad.ElevatorTest" time="0.001"/>
-  <testcase name="getBase()" classname="org.zad.ElevatorTest" time="0.0"/>
+  <testcase name="getBase()" classname="org.zad.ElevatorTest" time="0.001"/>
   <testcase name="decrementCooldown()" classname="org.zad.ElevatorTest" time="0.001"/>
-  <testcase name="move()" classname="org.zad.ElevatorTest" time="0.0"/>
-  <testcase name="perform_actions()" classname="org.zad.ElevatorTest" time="0.0"/>
+  <testcase name="move()" classname="org.zad.ElevatorTest" time="0.001"/>
+  <testcase name="perform_actions()" classname="org.zad.ElevatorTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

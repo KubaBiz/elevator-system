@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.zad.ElevatorSystemTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-04-23T12:22:12" hostname="DESKTOP-QFBP85B" time="0.035">
+<testsuite name="org.zad.ElevatorSystemTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-04-23T13:05:12" hostname="DESKTOP-QFBP85B" time="0.031">
   <properties/>
-  <testcase name="pickup()" classname="org.zad.ElevatorSystemTest" time="0.03"/>
-  <testcase name="status()" classname="org.zad.ElevatorSystemTest" time="0.002"/>
+  <testcase name="pickup()" classname="org.zad.ElevatorSystemTest" time="0.027"/>
+  <testcase name="status()" classname="org.zad.ElevatorSystemTest" time="0.001"/>
   <testcase name="init()" classname="org.zad.ElevatorSystemTest" time="0.001"/>
   <system-out><![CDATA[8
 8
